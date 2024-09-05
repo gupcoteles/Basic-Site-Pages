@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('image/image.jpg') no-repeat;
+    background: linear-gradient(rgb(0,0,0,0.8), rgb(0,0,0,0.8)), url('image/computer-5078696_640.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
